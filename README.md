@@ -3,6 +3,8 @@
      <img src="./image/img_with_text.png" width="400">
    </p>
 
+Repository for paper ***Generating High Quality Synthetic Data for Dutch Medical Conversations***
+
 Authos: Cecilia Kuan, Aditya Kamlesh Parikh, Henk van den Heuvel
 
 Affiliation: Radboud University, The Netherlands
